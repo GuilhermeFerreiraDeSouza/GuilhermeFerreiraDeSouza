@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @GuilhermeFerreiraDeSouza
+- 👀 I’m interested in trabalhar ...
+- 🌱 I’m currently learning Front-End...
+- 📫 How to reach me Osasco-sp...
+
+<!---
+GuilhermeFerreiraDeSouza/GuilhermeFerreiraDeSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
